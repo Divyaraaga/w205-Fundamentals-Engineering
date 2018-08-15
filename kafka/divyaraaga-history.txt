@@ -1,0 +1,500 @@
+   17  ls
+   18  cd widgets/
+   19  ls
+   20  ls
+   21  cd ..
+   22  ls
+   23  cd ..
+   24  ls
+   25  yo widget omniTest
+   26  ls
+   27  cd widgets/
+   28  ls
+   29  rm -r widgets/
+   30  ls
+   31  cd ..
+   32  ls
+   33  grunt build
+   34  cd ..
+   35  ls
+   36  sudo npm install
+   37  grunt mon
+   38  grunt mon
+   39  ls
+   40  ls
+   41  cd /Users/ds639c/Divya/ML_Stuff/swagger-ui-master
+   42  ls
+   43  npm install
+   44  sudo npm install
+   45  ls
+   46  npm run build
+   47  npm run build
+   48  ls
+   49  ls
+   50  cd dist/
+   51  ls
+   52  vi index.html 
+   53  ls
+   54  cd ~
+   55  ls
+   56  cd node_modules/
+   57  ls
+   58  cd Divya/
+   59  cd ML_Stuff/
+   60  ls
+   61  cd swagger-ui-master/
+   62  ls
+   63  npm run serve
+   64  npm run build
+   65  ls
+   66  /Users/ds639c/Divya/Angular_projects/ansc
+   67  cd /Users/ds639c/Divya/Angular_projects/ansc
+   68  ls
+   69  cd omni_seed/
+   70  ls
+   71  cd ..
+   72  ls
+   73  cd ..
+   74  ls
+   75  cd ..
+   76  ls
+   77  cd CodeCloudProjects/
+   78  ls
+   79  ls
+   80  cd testOmniWidget/
+   81  ls
+   82  ls
+   83  ls
+   84  ls
+   85  cd ..
+   86  ls
+   87  cd omniTest/
+   88  ls
+   89  cd ..
+   90  ls
+   91  cd testOmniWidget/
+   92  ls
+   93  ./generate.sh
+   94  ls
+   95  ./generate.sh
+   96  ./generate.sh
+   97  ls
+   98  ls
+   99  cd ~
+  100  ls
+  101  cd ..
+  102  ls
+  103  cd ds639c/
+  104  ls
+  105  cd node_modules/
+  106  ls
+  107  npm config get prefix
+  108  brew install node
+  109  cd ~
+  110  ls
+  111  brew install node
+  112  brew install
+  113  brew install node
+  114  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  115  sudo chown -R $(whoami) /usr/local/Cellar
+  116  ls
+  117  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  118  brew update
+  119  ls
+  120  cd D
+  121  cd Divya/
+  122  ls
+  123  cd CodeCloudProjects/
+  124  ls
+  125  cd omniTest/
+  126  ls
+  127  cd ..
+  128  ls
+  129  cd testOmniWidget/
+  130  ls
+  131  ls
+  132  ./bash-script.sh
+  133  sudo chown -R $(whoami) ./bash-script.sh 
+  134  ls
+  135  ./bash-script.sh
+  136  ls -a
+  137  chmod +x bash-script.sh 
+  138  ls
+  139  ./bash-script.sh 
+  140  ls
+  141  cd generator-omniuisdk/
+  142  ls
+  143  cd ..
+  144  cd omni_ui_yo_generator/
+  145  ls
+  146  cd ..
+  147  ls
+  148  cd ..
+  149  ls
+  150  rm -r omniTest/
+  151  sudo rm -r omniTest/
+  152  ls
+  153  ls
+  154  ls
+  155  cd testOmniWidget/
+  156  ls
+  157  ls
+  158  cd ..
+  159  ls
+  160  sudo rm -r testOmniWidget/
+  161  ls
+  162  ls
+  163  cd testOmniWidget/
+  164  ls
+  165  chmod +x bash-script.sh 
+  166  ls
+  167  ./bash-script.sh 
+  168  cd ..
+  169  ls
+  170  cd testOmniWidget/
+  171  ls
+  172  ./bash-script.sh 
+  173  ls
+  174  cd generator-omniuisdk/
+  175  ls
+  176  cd ..
+  177  ls
+  178  npm install generator-omniuisdk/
+  179  npm config get prefix
+  180   sudo chown -R $(whoami) $(npm config get prefix)/{lib/node_modules,bin,share}
+  181  ls
+  182  npm install generator-omniuisdk/
+  183  ls
+  184  ls
+  185  cd ..
+  186  ls
+  187  cd testOmniWidget/
+  188  ls
+  189  rm -r generator-omniuisdk/
+  190  sudo rm -r generator-omniuisdk/
+  191  ls
+  192  rm -r npm-debug.log 
+  193  ls
+  194  ls
+  195  ./bash-script.sh 
+  196  ls
+  197  ls
+  198  ls
+  199  ./bash-script.sh omniTest
+  200  ls
+  201  cd omniTest/
+  202  ls
+  203  npm install
+  204  ls
+  205  cd build-widgets/
+  206  ls
+  207  npm install
+  208  ls
+  209  grunt build
+  210  cd ..
+  211  ls
+  212  grunt mon
+  213  cd ~
+  214  clear
+  215  apiVersion: v1
+  216  clusters:
+  217  - cluster:
+  218      api-version: v1
+  219      server: "https://zlp22256.vci.att.com"
+  220      insecure-skip-tls-verify: true
+  221    name: default-cluster
+  222  contexts:
+  223  - context:
+  224      cluster: default-cluster
+  225      namespace: "com-att-cmlp"
+  226      user: default-user
+  227    name: default-context
+  228  current-context: default-context
+  229  kind: Config
+  230  users:
+  231  - name: default-user
+  232    user:
+  233  ls
+  234  kubectl
+  235  curl -LO https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/darwin/amd64/kubectl
+  236  kubectl
+  237  kubectl version
+  238  ./kubectl
+  239  sudo ./kubectl
+  240  gcloud
+  241  brew install kubectl
+  242  kubectl version
+  243  ls
+  244  docker images
+  245  docker images
+  246  docker login
+  247  docker login com.att.omni.expeng
+  248  /usr/bin/javaws http://startup.q.att.com/startup/webstart/q.jnlp
+  249  /usr/bin/javaws http://startup.q.att.com/startup/webstart/q.jnlp
+  250  ls
+  251  clear
+  252  docker images
+  253  docker pull zlp11313.vci.att.com:5300/library/node:6-alpine
+  254  docker login zlp11313.vci.att.com:5300
+  255  docker pull zlp11313.vci.att.com:5300/library/node:6-alpine
+  256  ls
+  257  clear
+  258  docker images
+  259  docker push zlp11313.vci.att.com:5100/com.att.omni.expeng/omni-starter-app
+  260  kubectl get services
+  261  ls
+  262  ./docker-push.sh 
+  263  ./docker-push.sh 
+  264  ls
+  265  npm install
+  266  ls
+  267  cd build-widgets/
+  268  ls
+  269  npm install
+  270  cd ..
+  271  ls
+  272  ./docker-push.sh 
+  273  ./docker-push.sh 
+  274  ./docker-push.sh 
+  275  ./docker-push.sh 
+  276  cd /Users/ds639c/Divya/storefront
+  277  ls
+  278  ls
+  279  ./docker-push.sh 
+  280  ./docker-push.sh 
+  281  ls
+  282  cd Kube-files-att/
+  283  ls
+  284  kubectl create –f storefront-rc.yml storefront-service.yml 
+  285  pwd
+  286  cd ~
+  287  ls
+  288  cd .kube/
+  289  ls
+  290  cd ..
+  291  ls
+  292  kubectl 
+  293  kubectl create -f /Users/ds639c/Divya/storefront/Kube-files-att/storefront-rc.yml 
+  294  kubectl create -f /Users/ds639c/Divya/storefront/Kube-files-att/storefront-service.yml 
+  295  clear
+  296  kubectl get services
+  297  kubectl get rc
+  298  kubectl describe rc sf-latest-rc-901
+  299  kubectl describe rc sf-latest-rc-9019.yml
+  300  kubectl describe rc sf-latest-rc-9019 -yml
+  301  kubectl describe -f storefront-rc.yml
+  302  kubectl get  -f storefront-rc.yml
+  303  kubectl get -f storefront-rc.yml
+  304  kubectl get -f sf-latest-svc-9019
+  305  kubectl get -f sf-latest-svc-9019 -yml
+  306  kubectl get nodes
+  307  kubectl get rc sf-latest-rc-9019 -o yaml
+  308  kubectl get rc
+  309  kubectl get rc mockapi-docker -o yaml
+  310  kubectl get pod mockapi-docker -o yaml
+  311  kubectl get pods
+  312  kubectl get pod mockapi-docker-b7942 -o yaml
+  313  kubectl get rc
+  314  kubectl get pods
+  315  kubectl get pod sf-latest-rc-9019-rblcr -o yaml
+  316  kubectl get svc
+  317  ls
+  318  cd Divya/
+  319  ls
+  320  cd /Users/ds639c/Divya/CodeCloudProjects/testOmniWidget/omniTest
+  321  ls
+  322  ./docker-push.sh 
+  323  ./docker-push.sh 
+  324  ls
+  325  cd ..
+  326  ls
+  327  cd ..
+  328  ls
+  329  cd ..
+  330  ls
+  331  cd NodeProjects/
+  332  ls
+  333  mkdir meanEg
+  334  ls
+  335  cd meanEg/
+  336  ls
+  337  npm init
+  338  ls
+  339  yo
+  340  npm install -g yo gulp-cli generator-angular-fullstack
+  341  npm config get prefix
+  342  sudo chown -R $(whoami) $(npm config get prefix)/{lib/node_modules,bin,share}
+  343  ls
+  344  npm install -g yo gulp-cli generator-angular-fullstack
+  345  whoami
+  346  mkdir ~/.npm-global
+  347  npm config set prefix '~/.npm-global'
+  348  npm config get prefix
+  349  vi ~/.profile
+  350  mkdir ~/.profile
+  351  ls
+  352  vi  ~/.profile
+  353  vi  ~/.profile
+  354   source ~/.profile
+  355  npm install -g jshint
+  356  npm install -g
+  357  npm install -g generator-angular-fullstack
+  358  sudo npm install -g generator-angular-fullstack
+  359  ls
+  360  yo
+  361  chmod -R 755 /Users/ds639c/.npm/
+  362  yo
+  363  ls
+  364  sudo yo
+  365  ls
+  366  sudo npm install
+  367  kls
+  368  ls
+  369  chmod -R 755 /Users/ds639c/.npm/async/0.7.0
+  370  sudo chown -R $USER:$GROUP ~/.npm
+  371  yo
+  372  node-pre-gyp install --fallback-to-build
+  373  npm install -g node-pre-gyp
+  374  yo
+  375  ls
+  376  npm install -g v8-debug
+  377  yo
+  378  node version
+  379  node --version
+  380  node --version
+  381  yo
+  382  npm i -g node-inspector --unsafe-perm
+  383  yo
+  384  npm install -g v8-debug v8-profile
+  385  npm install -g v8-debug
+  386  npm install -g v8-profile
+  387  sudo npm install -g node-gyp
+  388  sudo npm install -g node-gyp
+  389  sudo npm install -g node-pre-gyp
+  390  yo
+  391  node-pre-gyp -v v0.6.33
+  392  node-gyp -v
+  393  sudo npm install https://node-inspector.s3.amazonaws.com/debug/v0.4.6/node-v48-darwin-x64.tar.gz
+  394  sudo rm -r $HOME/.node-gyp
+  395  sudo rm -r $HOME/.npmrc
+  396  ls
+  397  cd Divya/
+  398  ls
+  399  cd NodeProjects/
+  400  ls
+  401  cd meanEg/
+  402  npm init
+  403  yo
+  404  ls
+  405  sudo npm install
+  406  sudo npm install
+  407  ls
+  408  node app.js
+  409  node index.js
+  410  node app.js
+  411  npm install mongoose --save
+  412  node app.js
+  413  node app.js
+  414  cd /Users/ds639c/Divya/Angular_projects/omni_ui_mean
+  415  ls
+  416  node server.js
+  417  ls
+  418  ./docker-push.sh 
+  419  ./docker-push.sh 
+  420  ./docker-push.sh 
+  421  ./docker-push.sh 
+  422  ./docker-push.sh 
+  423  kubectl get rc
+  424  kubectl sf-latest-rc-9019 -o yml
+  425  kubectl -f sf-latest-rc-9019 -o yml
+  426  pwd
+  427  ls
+  428  cd kube-files-att/
+  429  ls
+  430  pwd
+  431  kubectl create -f /Users/ds639c/Divya/Angular_projects/omni_ui_mean/kube-files-att/omniMEAN-rc.yml 
+  432  kubectl create -f /Users/ds639c/Divya/Angular_projects/omni_ui_mean/kube-files-att/omniMEAN-service.yml 
+  433  kubectl -f sf-latest-rc-9019 -o yml
+  434  kubectl -f sf-latest-rc-9019 -o -yml
+  435  kubectl options
+  436  kubectl -f rc sf-latest-rc-9019 -o -yml
+  437  kubectl rc -f sf-latest-rc-9019 -o -yml
+  438  kubectl get service omniMEAN-service.yml -o yml
+  439  kubectl get service omniMEAN-service.yml -o=yml
+  440  kubectl get service omniMEAN-service.yml -o -yml
+  441  kubectl get service omniMEAN-service.ym
+  442  kubectl get service omniMEAN-service.yml
+  443  kubectl get pods
+  444  kubectl -f om-latest-rc-9020-hzscn -o yml
+  445  kubectl -f om-latest-rc-9020-hzscn
+  446  kubectl -f om-latest-rc-9020-hzscn -o -yml
+  447  kubectl describe pod om-latest-rc-9020-hzscn 
+  448  kubectl describe pod om-latest-rc-9020-hzscn -o yml
+  449  kubectl describe -f  om-latest-rc-9020-hzscn
+  450  kubectl get -f om-latest-rc-9020-hzscn.yml
+  451  kubectl get -f om-latest-rc-9020-hzscn
+  452   kubectl get -o json pod om-latest-rc-9020-hzscn
+  453   kubectl get -o yml pod om-latest-rc-9020-hzscn
+  454   kubectl get -o yaml pod om-latest-rc-9020-hzscn
+  455   kubectl get rc
+  456   kubectl get -o yaml pod om-latest-rc-9020
+  457   kubectl get -o yaml rc om-latest-rc-9020
+  458   kubectl get -o yaml service om-latest-svc-9020
+  459   kubectl describe service om-latest-svc-9020
+  460   kubectl get -o yaml service om-latest-svc-9020
+  461  curl -i -X GET --url "http://{host:port}/askaquestion?q=How is your weather"  --header 'Host: demokong.att.com'  -H 'demokey:baf581c1938241d082a1400b67653947'
+  462  curl -i -X GET --url "http://http://zlp22257.vci.att.com:31677/askaquestion?q=How is your weather"  --header 'Host: demokong.att.com'  -H ‘demokey:baf581c1938241d082a1400b67653947'
+  463  curl -i -X GET --url "http://zlp22257.vci.att.com:31677/askaquestion?q=How is your weather"  --header 'Host: demokong.att.com'  -H ‘demokey:baf581c1938241d082a1400b67653947'
+  464  clear
+  465  curl -i -X GET --url "http://zlp22257.vci.att.com: 31052/askaquestion?q=How is your weather"  --header 'Host: demokong.att.com'  -H ‘demokey:baf581c1938241d082a1400b67653947'
+  466  clear
+  467  curl -i -X GET --url "http://zlp22257.vci.att.com:31052/askaquestion?q=How is your weather"  --header 'Host: demokong.att.com'  -H ‘demokey:baf581c1938241d082a1400b67653947'
+  468  curl -i -X GET --url "http://zlp22257.vci.att.com:31052/askaquestion?q=How is your weather"  --header 'Host: aiml.bot.att.com'  -H ‘democonversation
+  469  :a6186a83-bab1-42a4-9f1b-29b4f41505cf
+  470  curl -i -X GET --url "http://zlp22257.vci.att.com:31052/askaquestion?q=How is your weather"  --header 'Host: aiml.bot.att.com'  -H ‘democonversation
+  471  curl -i -X GET --url "http://zlp22257.vci.att.com:31052/askaquestion?q=How is your weather"  --header 'Host: aiml.bot.att.com'  -H ‘democonversation
+  472  curl -i -X GET --url "http://zlp22257.vci.att.com:31052/askaquestion?q=How is your weather"  --header 'Host: aiml.bot.att.com'  -H ‘botkey
+  473  curl -i -X GET --url "http://zlp22257.vci.att.com:31052/askaquestion?q=How is your weather" --header 'Host: aiml.bot.att.com' -H ‘botkey : 74172e9e6b5a4017a0552ea9088a1a21'
+  474  curl -i -X GET --url "http://zlp22257.vci.att.com:31052/askaquestion?q=How is your weather" --header 'Host: aiml.bot.att.com' -H ‘botkey:74172e9e6b5a4017a0552ea9088a1a21'
+  475  curl -i -X GET --url "http://zlp22257.vci.att.com:30247/getData"
+  476  curl -i -X GET --url "http://zlp22257.vci.att.com:30247/getData"
+  477  curl -i -X GET --url "http://zlp22257.vci.att.com:30152/getData"
+  478  /usr/bin/javaws http://startup.q.att.com/startup/webstart/q.jnlp
+  479  docker run --privileged --name some-docker -d docker:1.8-dind
+  480  docker ps
+  481  docker run --rm --link some-docker:docker docker:1.7 version
+  482  docker run --rm --link some-docker:docker docker info
+  483  docker ps
+  484  kubectl get services
+  485  kubectl get services
+  486  su fv2admin
+  487  ./bash-script.sh 
+  488  docker-machine ip
+  489  history
+  490  docker ps
+  491  docker rmi -f 5162b34ccac7
+  492  docker images
+  493  docker rmi -f 8fa6da41c4ae
+  494  docker ps
+  495  docker-compose down
+  496  docker rmi -f 8fa6da41c4ae
+  497  docker rmi -f 8fa6da41c4ae5162b34ccac7
+  498  docker rmi -f 5162b34ccac7
+  499  docker rmi -f 2acdb712eee3
+  500  docker ps
+  501  ls
+  502  history
+  503  docker-compose up -d
+  504  docker-compose logs -f kafka
+  505  docker-compose up -d
+  506   docker-compose exec kafka     kafka-topics       --create       --topic assgn6json       --partitions 1       --replication-factor 1       --if-not-exists       --zookeeper zookeeper:32181
+  507  docker-compose exec kafka   kafka-topics     --describe     --topic assgn6json     --zookeeper zookeeper:32181
+  508  docker-compose exec mids bash -c "cat /w205/assessment-attempts-20180128-121051-nested.json | jq '.[]' -c | kafkacat -P -b kafka:29092 -t assgn6json && echo 'Produced 100 messages.'"
+  509  docker-compose exec kafka   kafka-console-consumer     --bootstrap-server kafka:29092     --topic assgn6json     --from-beginning     --max-messages 42
+  510  docker-compose down
+  511  history
+  512  history > divyaraaga-history.txt
+  513  ls
+  514  curl -L -o assessment-attempts-20180128-121051-nested.json https://goo.gl/f5bRm4
+  515  ls
+  516  history > divyaraaga-history.txt
